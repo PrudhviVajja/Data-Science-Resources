@@ -1,7 +1,8 @@
-# Data Science ![logo](Assets/images/logo2.png)
+![logo](Assets/images/logo2.png)
 
+# Data Science 📚
 
-#### What can you find?
+#### What can you find here?
 Some of the best resources to learn data science.
 
 #### How to contribute?
