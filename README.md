@@ -8,7 +8,7 @@
 # Data Science 📚
 
 ## Why I created this REPO?
-[Real Vs Thinking you are real (as a Data Scientist)]
+[Real Vs Thinking you are real (as a Data Scientist)](https://towardsdatascience.com/from-sklearn-import-478c711dafa1)
 
 #### What can you find here?
 Some of the best resources to learn data science.
