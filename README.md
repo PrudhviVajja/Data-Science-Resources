@@ -6,8 +6,8 @@
 Some of the best resources to learn data science.
 
 #### How to contribute?
-1.fork the repo.
-2.create a new branch.
-3.Add resources in the specific folder.
-4.create a pull request.
+- [fork my repository](https://github.com/Prudhvi0001/Data-Science-Resources/fork)
+- create a new branch.
+- Add resources in the specific folder.
+- create a pull request.
 
