@@ -7,6 +7,9 @@
 
 # Data Science 📚
 
+## Why I created this REPO?
+[Real Vs Thinking you are real (as a Data Scientist)]
+
 #### What can you find here?
 Some of the best resources to learn data science.
 
