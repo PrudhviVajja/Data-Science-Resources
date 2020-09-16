@@ -1,6 +1,6 @@
-Research Papers
-
 ![machine learning papers Source: LinkedIn](http://data-mining.philippe-fournier-viger.com/wp-content/uploads/2019/06/image-1-1024x798.png)
+
+## Research Papers
 
 ### Machine Learning
 - Short Summaries of [Machine Learning Papers](https://github.com/aleju/papers)
