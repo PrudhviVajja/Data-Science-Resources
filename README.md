@@ -1,4 +1,7 @@
 ![logo](Assets/images/logo2.png)
+<p align="center">
+  <img src="Assets/images/logo2.png">
+</p>
 
 [![GitHub issues](https://img.shields.io/github/issues/Prudhvi0001/Data-Science-Resources?style=plastic)](https://github.com/Prudhvi0001/Data-Science-Resources/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Prudhvi0001/Data-Science-Resources?style=plastic)](https://github.com/Prudhvi0001/Data-Science-Resources/network)
