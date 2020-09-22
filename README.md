@@ -11,8 +11,8 @@
 
 ## Why I created this REPO?
 
-Got feed with the abundent resources out their and stepping into wrong ones and learning the same thing again and again.
-Learned something new everyday and still you are at the level as others you are the right place.
+- Got feed with the abundent resources out their and stepping into wrong ones and learning the same thing again and again.
+- Learning something new everyday and still you are at the same level then you are in the right place.
 
 [Real Vs Thinking you are real (as a Data Scientist)](https://towardsdatascience.com/from-sklearn-import-478c711dafa1)
 
@@ -20,7 +20,7 @@ Learned something new everyday and still you are at the level as others you are 
 
 Some of the best curated resources to learn pratical machine learning.
 
-#### How to contribute?
+#### Found some best resources in your Data Science journey raise a PR and help others.
 
 - [fork my repository](https://github.com/Prudhvi0001/Data-Science-Resources/fork)
 - Create a new branch.
