@@ -11,7 +11,8 @@
 
 ## Why I created this REPO?
 
-Got feed up the abundent resources out their and stepping into wrong ones and learning the same thing again and again.
+Got feed with the abundent resources out their and stepping into wrong ones and learning the same thing again and again.
+Learned something new everyday and still you are at the level as others you are the right place.
 
 [Real Vs Thinking you are real (as a Data Scientist)](https://towardsdatascience.com/from-sklearn-import-478c711dafa1)
 
