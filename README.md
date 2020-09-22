@@ -1,4 +1,3 @@
-![logo](Assets/images/logo2.png)
 <p align="center">
   <img src="Assets/images/logo2.png">
 </p>
