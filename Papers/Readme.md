@@ -27,3 +27,4 @@
 
 ### Miscellaneous
 - [Everything related to computer Science](https://github.com/papers-we-love/papers-we-love)
+- [The Matrix Calculus You Need For Deep Learning](Assets/mathsforNN.pdf)
